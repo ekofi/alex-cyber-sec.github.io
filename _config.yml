@@ -8,33 +8,32 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Suarne                          # the main title
+title: Ankush's Tech Blogs                        # the main title
 
-tagline: This is home page of Wan Shicheng  # it will display as the sub-title
+tagline: Work Hard! Play Hard!.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Record the way of becoming a qualified scholar
-
+  Compilation of the work and fun during my time at KRSSG.
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://suarne.github.io'
+url: 'https://royankush.github.io'
 
-author: Wan Shicheng                  # change to your full name
+author: Ankush Roy                  # change to your full name
 
-avatar: #/assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/paulie.jpg  # support internet resources
 
 github:
-  username: Suarne             # change to your github username
+  username: royankush             # change to your github username
 
-#twitter:
-#  username: twitter_username            # change to your twitter username
+facebook:
+  username: ankush.roy.1466
 
 social:
-  name: Wan Shicheng                  # it will shows as the copyright owner in Footer
-  email: wan1998@gmail.com             # change to your email address
+  name: Ankush Roy                  # it will shows as the copyright owner in Footer
+  email: ankroy98@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/Suarne       # change to your github homepage
+    - https://github.com/royankush       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -49,7 +48,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
