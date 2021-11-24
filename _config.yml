@@ -79,7 +79,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://imagedelivery.net/
+img_cdn: https://imagedelivery.net
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /sb6A5lYWczLQBl8fiAnPWA/88015bd8-1c29-494a-87fc-2dbdacc8b100/public
