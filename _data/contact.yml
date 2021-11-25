@@ -11,7 +11,7 @@
   icon: 'fab fa-twitter'
 -
   type: tryhackme
-  icon: 'fab fa-cloud'
+  icon: 'fa fa-cloud'
 
  # type: email
   #icon: 'fas fa-envelope'
