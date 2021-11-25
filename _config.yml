@@ -40,7 +40,7 @@ hackthebox:
   username: 'users/163579'
 
 tryhackme:
-  username: 'Zedark'
+  username: 'p/Zedark'
 
 social:
   # Change to your full name.
@@ -52,7 +52,7 @@ social:
     - https://app.hackthebox.com/users/163579
     - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
-    - https://tryhackme.com/p/username       # change to your github homepage
+    - https://tryhackme.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
