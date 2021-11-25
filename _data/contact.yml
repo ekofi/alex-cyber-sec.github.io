@@ -10,7 +10,7 @@
   type: twitter
   icon: 'fab fa-twitter'
 -
-  type: TryHackMe
+  type: tryhackme
   icon: 'fab fa-cloud'
 
  # type: email
