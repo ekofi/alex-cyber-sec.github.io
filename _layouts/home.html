@@ -48,12 +48,8 @@ layout: page
   <div class="post-preview">
     <h1>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <br><a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" width="400" align="center" /> </a>
     </h1>
-
-    <div class="post-thumbnail">
-      <div style="text-align: center">
-        <br><a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" width="400" align="center" /> </a>
-      </div>
 
     <div class="post-content">
       <p>
