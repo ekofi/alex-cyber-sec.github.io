@@ -12,10 +12,10 @@ $(function() {
   }
 
   /* lazy loading */
-
+/*
   const imgList = document.querySelectorAll(`${IMG_SCOPE} img[src]`);
   const observer = lozad(imgList);
-  observer.observe();
+  observer.observe();*/
 
   /* popup */
 
