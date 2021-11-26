@@ -18,7 +18,7 @@ $(function() {
   observer.observe();*/
 
   /* popup */
-
+/*
   $(`${IMG_SCOPE} p > img[data-src],${IMG_SCOPE} img[data-src].preview-img`).each(
     function() {
       let nextTag = $(this).next();
@@ -28,7 +28,7 @@ $(function() {
       $(this).wrap(`<a href="${src}" title="${title}" class="popup"></a>`);
     }
   );
-
+*/
   $('.popup').magnificPopup({
     type: 'image',
     closeOnContentClick: true,
