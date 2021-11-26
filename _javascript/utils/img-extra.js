@@ -13,7 +13,7 @@ $(function() {
 
   /* lazy loading */
 
-  const imgList = document.querySelectorAll(`${IMG_SCOPE} img[data-src]`);
+  const imgList = document.querySelectorAll(`${IMG_SCOPE} img[src]`);
   const observer = lozad(imgList);
   observer.observe();
 
