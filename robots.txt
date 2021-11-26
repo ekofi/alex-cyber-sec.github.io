@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://alex-cyber-sec.github.io/sitemap.xml
