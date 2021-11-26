@@ -50,6 +50,8 @@ layout: page
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h1>
 
+    <img src="{{ post.image }}" class="post-preview-img" style="padding-top: 16px;">
+
     <div class="post-content">
       <p>
         {% include no-linenos.html content=post.content %}
